@@ -1,6 +1,6 @@
 @props([
     'href' => '#',
-    'variant' => '',
+    'variant' => 'primary',
     'size' => 'md',
 ])
 
