@@ -14,7 +14,7 @@
     >
 
     <title>
-        {{ $title ?? '' }}
+        {{ $title ?? 'FlowPilot' }}
     </title>
 
     @vite([
