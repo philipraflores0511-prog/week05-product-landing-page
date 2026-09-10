@@ -1,4 +1,4 @@
-# Week 5 Mini Project 04
+# Week 5 Mini Project 
 # Responsive Product Landing Page
 
 ## Course Information
