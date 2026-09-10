@@ -2,7 +2,7 @@
     'image',
     'name',
     'position',
-    'review',
+    '',
 ])
 
 <div class="card-hover rounded-2xl border border-slate-200 bg-white p-6">
